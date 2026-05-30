@@ -35,3 +35,5 @@ curl -X POST http://127.0.0.1:5000/predict \
 с упакованным в JSON формат информацией о визите пользователя
 5) В результате в терминале появится ответ вида {"Probability": 0.49, "target_action": 0} с вероятностью положительной конверсии в целевое действие и ответ модели на вопрос - было ли в рамках заданной сессии целевое действие
 ![Screenshot](api_output.png)
+**Превью sber_proj.ipynb недоступно в github можно перейти по ссылке на [nbviewer](https://nbviewer.org/github/anovokreschennykh1/sber_auto_cr_project/blob/main/sber_proj.ipynb) где все графики и код будет сразу перед глазами**
+
