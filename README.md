@@ -1,7 +1,7 @@
 # Структура проекта
 - sber_proj.ipynb - очистка и подготовка данных, EDA, обучение модели и выводы
 - app.py - API для выдачи предсказания подготовленной ранее модели
-- Предобученный catboost весит более 25 мб и не пролезает на гитхаб, можно скачать на [Google Drive](https://drive.google.com/file/d/1iCJ8kFu1sJzFSZvovXC24TpYxcoJlln4/view?usp=sharing)
+- Предобученная модель catboost весит более 25 мб и не пролезает на гитхаб, можно скачать на [Google Drive](https://drive.google.com/file/d/1iCJ8kFu1sJzFSZvovXC24TpYxcoJlln4/view?usp=sharing)
 # Инструкция по использованию API
 **Превью sber_proj.ipynb недоступно в github можно перейти по ссылке на [nbviewer](https://nbviewer.org/github/anovokreschennykh1/sber_auto_cr_project/blob/main/sber_proj.ipynb) где все графики и код будет сразу перед глазами**
 1) Установка библиотек
