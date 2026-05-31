@@ -6,7 +6,7 @@
 **Превью sber_proj.ipynb недоступно в github можно перейти по ссылке на [nbviewer](https://nbviewer.org/github/anovokreschennykh1/sber_auto_cr_project/blob/main/sber_proj.ipynb) где все графики и код будет сразу перед глазами**
 1) Установка библиотек
 pip install flask pandas catboost
-2) Разместите файлы с приложением (app.py) в одной директории вместе с предобученной моделью catboost_model.cbm
+2) Разместите файлы с приложением (app.py) в одной директории вместе с предобученной моделью catboost_model.cbm (можно скачать[Google Drive](https://drive.google.com/file/d/1iCJ8kFu1sJzFSZvovXC24TpYxcoJlln4/view?usp=sharing))
 3) Запуск через командную строку python app.py -> в результате поднимется сервер
 4) Теперь можно открыть другое окно в терминале и подать команду на локальный сервер вида
 curl -X POST http://127.0.0.1:5000/predict \
